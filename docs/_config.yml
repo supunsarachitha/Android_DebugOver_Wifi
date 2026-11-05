@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: Android Debug Over WiFi
+description: Connect Android devices to ADB over WiFi from Windows
